@@ -2,7 +2,7 @@
 
 ## Overview
 
-A modal agnostic confounder-restricted permutation testing approach for investigating the influence of categorical confounders on model performance. This is used as part of the paper "Detecting the influence of clinical confounder bias within machine learning models - a study of ANCA-associated vasculitis autoantibody subtype with serum-FTIR spectroscopy" published in Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy.
+A modal agnostic confounder-restricted permutation testing approach for investigating the influence of categorical confounders on model performance. 
 
 A PCA-SVM binary classification model is used as an illustrative example. 
 The framework can be readily adapted to other machine learning models.
